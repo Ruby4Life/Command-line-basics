@@ -1,4 +1,4 @@
-grep syntax:
+<h3>grep syntax:</h3>
 grep 'word' filename
 grep 'word' file1 file2 file3
 grep 'string1 string2'  filename
